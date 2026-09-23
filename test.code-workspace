@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"git.enabled": true,
+		"git.path": "git",
+		"git.autofetch": false,
+		"git.terminalAuthentication": false,
+		"git.useIntegratedAskPass": false,
+		"git.confirmSync": false,
+		"terminal.integrated.cwd": "${workspaceFolder}"
+	}
+}

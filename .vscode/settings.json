@@ -1,0 +1,16 @@
+{
+    "git.enabled": true,
+    "git.path": "C:\\Program Files\\Git\\bin\\git.exe",
+    "git.autofetch": false,
+    "git.autorefresh": true,
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "git.postCommitCommand": "none",
+    "git.showPushSuccessNotification": true,
+    "git.timeout": 60,
+    "git.fetchOnPull": true,
+    "git.pruneOnFetch": true,
+    "git.allowNoVerifyCommit": true,
+    "git.terminalAuthentication": false,
+    "git.useIntegratedAskPass": false
+}
